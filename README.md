@@ -1,6 +1,6 @@
 # 🌍 Congo Basin Mining Concessions Analysis
 
-![image alt]()
+![image alt](https://github.com/dragoooooooooon34/Spatial_Python_Project/blob/main/Tenke%20Fungurume%20Mine.png?raw=true)
 
 This project explores mining concession data in the Congo Basin using geospatial and data analysis tools in Python. The goal is to visualize and understand the distribution, type, and scale of mining activity across Central Africa, with a focus on transparency and environmental awareness.
 
