@@ -1,4 +1,4 @@
-# 🌍 Congo Basin Mining Concessions Analysis
+# 🌍 Jireh_Congo Basin Mining Concessions Analysis
 
 ![image alt](https://github.com/dragoooooooooon34/Spatial_Python_Project/blob/main/Tenke%20Fungurume%20Mine.png?raw=true)
 
