@@ -25,7 +25,7 @@ This project explores mining concession data in the Congo Basin using geospatial
 - Missing values are replaced with `"UNKNOWN"` for consistency.
 
 ### 3. Visualization
-- (Coming soon in the notebook) Maps and plots using `matplotlib`.
+- For Images I used QGIS
 
 ## 📊 Goals & Applications
 
