@@ -1,5 +1,7 @@
 # 🌍 Congo Basin Mining Concessions Analysis
 
+![image alt]()
+
 This project explores mining concession data in the Congo Basin using geospatial and data analysis tools in Python. The goal is to visualize and understand the distribution, type, and scale of mining activity across Central Africa, with a focus on transparency and environmental awareness.
 
 ## 📁 Project Structure
